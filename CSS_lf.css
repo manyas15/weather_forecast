@@ -6,7 +6,7 @@
   font-family: 'Open Sans', sans-serif;
 }
 h1 {
-  background: #025a6e;
+  background: #3da9c1;
   font-size: 1.75rem;
   text-align: center;
   padding: 18px 0;
@@ -35,7 +35,7 @@ body {
 }
 .weather-input input:focus {
   padding: 0 12px;
-  border: 2px solid #0486a3;
+  border: 2px solid #0ca4c6;
 }
 .weather-input .separator {
   height: 1px;
