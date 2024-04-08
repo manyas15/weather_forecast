@@ -35,7 +35,7 @@ body {
 }
 .weather-input input:focus {
   padding: 0 12px;
-  border: 2px solid #0486a3;
+  border: 2px solid #2aa6c1;
 }
 .weather-input .separator {
   height: 1px;
@@ -48,8 +48,8 @@ body {
 }
 .weather-input .separator::before{
   content: "or";
-  color: #6C757D;
-  font-size: 1.18rem;
+  color: #5a5e63;
+  font-size: 1.17rem;
   padding: 0 15px;
   margin-top: -4px;
   background: #E3F2FD;
