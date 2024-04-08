@@ -35,7 +35,7 @@ body {
 }
 .weather-input input:focus {
   padding: 0 12px;
-  border: 2px solid #0486a3;
+  border: 2px solid #025669;
 }
 .weather-input .separator {
   height: 1px;
