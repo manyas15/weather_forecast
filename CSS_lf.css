@@ -31,7 +31,7 @@ body {
   padding: 0 17px;
   margin: 10px 0 20px 0;
   border-radius: 4px;
-  border: 1px solid #ccc;
+  border: 1px solid #ddd4d4;
 }
 .weather-input input:focus {
   padding: 0 12px;
