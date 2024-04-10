@@ -62,7 +62,7 @@ body {
   border: none;
   border-radius: 4px;
   font-size: 1rem;
-  color: #fff;
+  color: #b5afaf;
   background: #0486a3;
   transition: 0.2s ease;
 }
@@ -80,7 +80,7 @@ body {
 }
 .weather-data .current-weather {
   color: #fff;
-  background: #0486a3;
+  background: #3698ae;
   border-radius: 5px;
   padding: 20px 70px 20px 20px;
   display: flex;
