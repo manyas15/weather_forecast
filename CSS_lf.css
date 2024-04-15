@@ -79,8 +79,8 @@ body {
   width: 100%;
 }
 .weather-data .current-weather {
-  color: #fff;
-  background: #3698ae;
+  color: #eebebe;
+  background: #3d92a5;
   border-radius: 5px;
   padding: 20px 70px 20px 20px;
   display: flex;
