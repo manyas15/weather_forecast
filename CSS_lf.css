@@ -115,7 +115,7 @@ body {
   gap: 20px;
 }
 .weather-cards .card {
-  color: #fff;
+  color: #e8cccc;
   padding: 18px 16px;
   list-style: none;
   width: calc(100% / 5);
