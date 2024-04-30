@@ -13,7 +13,7 @@ h1 {
   color: hsla(0, 6%, 87%, 0.992);
 }
 body {
-    text-align: center;
+    text-align:center;
   }
 .container {
   display: flex;
@@ -21,7 +21,7 @@ body {
   padding: 35px;
 }
 .weather-input {
-  width: 600px;
+  width: 500px;
 }
 .weather-input input {
   height: 45px;
