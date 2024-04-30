@@ -18,7 +18,7 @@ body {
 .container {
   display: flex;
   gap: 35px;
-  padding: 30px;
+  padding: 35px;
 }
 .weather-input {
   width: 600px;
