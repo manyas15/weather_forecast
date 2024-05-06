@@ -7,6 +7,7 @@
 }
 h1 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   background: #d0c6c6;
   font-size: 1.50rem;
   text-align: center;
@@ -14,6 +15,9 @@ h1 {
   color: hsla(0, 24%, 94%, 0.992);
 =======
   background: #f7efef;
+=======
+  background: #f7f4f4;
+>>>>>>> 494cef86e93ff5b4afa461810939cda5bb1bbcdc
   font-size:1.50rem;
   text-align:center;
   padding:19px 0;
