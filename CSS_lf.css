@@ -1,57 +1,69 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap');
 * {
-  margin: 0;
+  margin: 1;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Times New Roman', sans-serif;
 }
 h1 {
-  background: #3199b0;
-  font-size: 1.75rem;
+<<<<<<< HEAD
+<<<<<<< HEAD
+  background: #d0c6c6;
+  font-size: 1.50rem;
   text-align: center;
   padding: 19px 0;
-  color: hsl(0, 0%, 100%);
+  color: hsla(0, 24%, 94%, 0.992);
+=======
+  background: #f7efef;
+=======
+  background: #f7f4f4;
+>>>>>>> 494cef86e93ff5b4afa461810939cda5bb1bbcdc
+  font-size:1.50rem;
+  text-align:center;
+  padding:19px 0;
+  color: hsla(0, 6%, 87%, 0.992);
+>>>>>>> 7373ef65f5aa5163ae47a01470bc9ec3b508d4f6
 }
 body {
-    text-align: center;
+    text-align:center;
   }
 .container {
-  display: flex;
-  gap: 35px;
-  padding: 30px;
+  display:flex;
+  gap:35px;
+  padding:35px;
 }
 .weather-input {
-  width: 550px;
+  width:500px;
 }
 .weather-input input {
-  height: 45px;
-  width: 100%;
+  height:45px;
+  width:100%;
   outline: none;
-  font-size: 1.07rem;
+  font-size:1.09rem;
   padding: 0 17px;
   margin: 10px 0 20px 0;
   border-radius: 4px;
-  border: 1px solid #ddd4d4;
+  border: 1px solid #aba3a3f3;
 }
 .weather-input input:focus {
   padding: 0 12px;
-  border: 2px solid #0ca4c6;
+  border: 3px solid #2d95ac;
 }
 .weather-input .separator {
-  height: 1px;
+  height: 2px;
   width: 100%;
-  margin: 25px 0;
-  background: #BBBBBB;
+  margin: 27px 0;
+  background: #e4dbdb;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 .weather-input .separator::before{
   content: "or";
-  color: #6C757D;
+  color: #9ebdd8;
   font-size: 1.18rem;
   padding: 0 15px;
-  margin-top: -4px;
+  margin-top: -3px;
   background: #9ab7cb;
 }
 .weather-input button {
@@ -62,7 +74,7 @@ body {
   border: none;
   border-radius: 4px;
   font-size: 1rem;
-  color: #897373;
+  color: #2e4968;
   background: #0486a3;
   transition: 0.2s ease;
 }
@@ -70,7 +82,7 @@ body {
   background: #0486a3;
 }
 .weather-input .location-btn {
-  background: #6C757D;
+  background: #86939e;
 }
 .weather-input .location-btn:hover {
   background: #8d97a2;
@@ -79,8 +91,8 @@ body {
   width: 100%;
 }
 .weather-data .current-weather {
-  color: #eebebe;
-  background: #3d92a5;
+  color: #e6c2c2;
+  background: #84def3;
   border-radius: 5px;
   padding: 20px 70px 20px 20px;
   display: flex;
@@ -88,7 +100,7 @@ body {
 }
 .current-weather h2 {
   font-weight: 700;
-  font-size: 1.7rem;
+  font-size: 1.9rem;
 }
 .weather-data h6 {
   margin-top: 12px;
@@ -115,11 +127,16 @@ body {
   gap: 20px;
 }
 .weather-cards .card {
-  color: #fff;
+<<<<<<< HEAD
+  color: #e8cccc;
   padding: 18px 16px;
+=======
+  color: #fff;
+  padding: 18px 14px;
+>>>>>>> a76ac160eda4d668088b243a4b6fe0a4cb09a3fd
   list-style: none;
   width: calc(100% / 5);
-  background: #b2c0cd;
+  background: #296196;
   border-radius: 6px;
 }
 .weather-cards .card h3 {
