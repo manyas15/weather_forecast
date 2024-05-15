@@ -67,7 +67,7 @@ body {
   background: #9ab7cb;
 }
 .weather-input button {
-  width: 100%;
+  width: 99.9%;
   padding: 10px 0;
   cursor: pointer;
   outline: none;
