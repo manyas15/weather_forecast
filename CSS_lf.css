@@ -79,7 +79,7 @@ body {
   transition: 0.2s ease;
 }
 .weather-input .search-btn:hover {
-  background: #0486a3;
+  background: #2299b4;
 }
 .weather-input .location-btn {
   background: #86939e;
