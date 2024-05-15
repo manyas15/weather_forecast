@@ -124,7 +124,7 @@ body {
 }
 .days-forecast .weather-cards {
   display: flex;
-  gap: 20px;
+  gap: 21px;
 }
 .weather-cards .card {
 <<<<<<< HEAD
