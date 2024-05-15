@@ -145,7 +145,7 @@ body {
 }
 .weather-cards .card img {
   max-width: 70px;
-  margin: 5px 0 -12px 0;
+  margin: 10px 0 -12px 0;
 }
 
 @media (max-width: 1400px) {
