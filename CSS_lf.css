@@ -42,7 +42,7 @@ body {
   font-size:1.09rem;
   padding: 0 17px;
   margin: 10px 0 20px 0;
-  border-radius: 4px;
+  border-radius: 4.5px;
   border: 1px solid #aba3a3f3;
 }
 .weather-input input:focus {
@@ -99,7 +99,7 @@ body {
   justify-content: space-between;
 }
 .current-weather h2 {
-  font-weight: 700;
+  font-weight: 70;
   font-size: 1.9rem;
 }
 .weather-data h6 {
@@ -111,7 +111,7 @@ body {
   text-align: center;
 }
 .current-weather .icon img {
-  max-width: 120px;
+  max-width: 125px;
   margin-top: -15px;
 }
 .current-weather .icon h6 {
@@ -129,7 +129,7 @@ body {
 .weather-cards .card {
 <<<<<<< HEAD
   color: #e8cccc;
-  padding: 18px 16px;
+  padding:16px;
 =======
   color: #fff;
   padding: 18px 14px;
