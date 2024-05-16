@@ -39,11 +39,16 @@ body {
   height:45px;
   width:100%;
   outline: none;
-  font-size:1.09rem;
+  font-size:1.19rem;
   padding: 0 17px;
   margin: 10px 0 20px 0;
+<<<<<<< HEAD
   border-radius: 4px;
   border: 1px solid #e0c0c0f3;
+=======
+  border-radius: 4.5px;
+  border: 1px solid #aba3a3f3;
+>>>>>>> 39559eefd2154240e473e477c3bf4b20c7987c2b
 }
 .weather-input input:focus {
   padding: 0 12px;
@@ -52,7 +57,7 @@ body {
 .weather-input .separator {
   height: 2px;
   width: 100%;
-  margin: 27px 0;
+  margin: 28px 0;
   background: #e4dbdb;
   display: flex;
   align-items: center;
@@ -61,13 +66,13 @@ body {
 .weather-input .separator::before{
   content: "or";
   color: #9ebdd8;
-  font-size: 1.18rem;
+  font-size: 1.17rem;
   padding: 0 15px;
   margin-top: -3px;
   background: #9ab7cb;
 }
 .weather-input button {
-  width: 100%;
+  width: 99.9%;
   padding: 10px 0;
   cursor: pointer;
   outline: none;
@@ -75,11 +80,11 @@ body {
   border-radius: 4px;
   font-size: 1rem;
   color: #2e4968;
-  background: #0486a3;
+  background: #47b0c8;
   transition: 0.2s ease;
 }
 .weather-input .search-btn:hover {
-  background: #0486a3;
+  background: #2299b4;
 }
 .weather-input .location-btn {
   background: #86939e;
@@ -91,7 +96,7 @@ body {
   width: 100%;
 }
 .weather-data .current-weather {
-  color: #e6c2c2;
+  color: #e08080;
   background: #84def3;
   border-radius: 5px;
   padding: 20px 70px 20px 20px;
@@ -99,7 +104,7 @@ body {
   justify-content: space-between;
 }
 .current-weather h2 {
-  font-weight: 700;
+  font-weight: 70;
   font-size: 1.9rem;
 }
 .weather-data h6 {
@@ -111,7 +116,7 @@ body {
   text-align: center;
 }
 .current-weather .icon img {
-  max-width: 120px;
+  max-width: 125px;
   margin-top: -15px;
 }
 .current-weather .icon h6 {
@@ -124,12 +129,12 @@ body {
 }
 .days-forecast .weather-cards {
   display: flex;
-  gap: 20px;
+  gap: 21px;
 }
 .weather-cards .card {
 <<<<<<< HEAD
   color: #e8cccc;
-  padding: 18px 16px;
+  padding:16px;
 =======
   color: #fff;
   padding: 18px 14px;
@@ -145,7 +150,7 @@ body {
 }
 .weather-cards .card img {
   max-width: 70px;
-  margin: 5px 0 -12px 0;
+  margin: 10px 0 -12px 0;
 }
 
 @media (max-width: 1400px) {
